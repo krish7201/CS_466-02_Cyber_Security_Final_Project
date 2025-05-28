@@ -1,6 +1,8 @@
 # Topics Cyber Security CS 466-02 - Final Project
 This is a project that me and my group mate Sokkhandara created for our cyber security class final project.
 
+Everything was developed in IntelliJ Idea, using the Java programming language. This is a caesar cipher encryption/decryption program, with an added brute force dictionary decryptor.
+
 Instructions:
 - Have latest JDK installed (https://www.oracle.com/ae/java/technologies/downloads/)
 - Download project zip (https://github.com/krish7201/CS_466-02_Cyber_Security_Final_Project/archive/refs/heads/main.zip)
