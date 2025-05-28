@@ -3,7 +3,7 @@ This is a project that me and my group mate Sokkhandara created for our cyber se
 
 Instructions:
 - Have latest JDK installed (https://www.oracle.com/ae/java/technologies/downloads/)
-- Download zip
+- Download project zip (https://github.com/krish7201/CS_466-02_Cyber_Security_Final_Project/archive/refs/heads/main.zip)
 - Extract files
 - Run .jar file
 
