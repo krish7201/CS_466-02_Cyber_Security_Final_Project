@@ -45,12 +45,15 @@ When you download our project, it’ll sit in your downloads like this:
 <img src="https://github.com/user-attachments/assets/9d73824c-25a5-4da2-a822-1759281723b8" height="50%" width="50%"></img>
 
 When you open the project you’ll see a jar file, that’s all you need to run the program (provided you’re creating your own test files). Double click on the jar file and the program will start.
+
 <img src="https://github.com/user-attachments/assets/3f2035aa-dc3c-46fc-a390-d9fa4b19d7da" height="50%" width="50%"></img>
 
 The username and password is: CoolKid99 and something (to access the user mode: get the username and password incorrect three times).
+
 <img src="https://github.com/user-attachments/assets/2b969983-042c-43e1-bda8-607508c1a3df" height="50%" width="50%"></img>
 
 If you’ve launched the JAR file outside of the project folder, the browse button will default to the documents folder on your Windows computer, not sure about Mac. You can feed the program any text file (file with a .txt file extension), no other files will be accepted (the program will remain on the browse section if fed a file that doesn’t have a .txt file extension).
+
 <img src="https://github.com/user-attachments/assets/5c13a262-bc62-4890-956f-8272593f14ea" height="50%" width="50%"></img>
 
 <img src="https://github.com/user-attachments/assets/fb15f4ac-6243-41ab-9e48-d3936ce909ca" height="50%" width="50%"></img>
