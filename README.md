@@ -30,10 +30,10 @@ Our UML diagram is split into 5 different classes:
 - StringTokensInDictionary class that allows the program to check if the words in the decrypted message matches to actual English words
 
 ### Project UML diagram:
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/4cb885ff-20b4-4d7b-8816-e259d5898adf)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/4cb885ff-20b4-4d7b-8816-e259d5898adf)</img>
 
 ### Project Flowchart
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/0abdc0c7-6f7b-4be8-a106-158336fe135c)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/0abdc0c7-6f7b-4be8-a106-158336fe135c)</img>
 
 ### Data Acquisition
 The data we will be using to encrypt and decrypt, will be all forms of historical texts of the United States of America such as: the Emancipation Proclamation, Gettysburg Address, Star-Spangled Banner, Pledge of Allegiance and the Declaration of Independence.
@@ -42,45 +42,45 @@ The data we will be using to encrypt and decrypt, will be all forms of historica
 Our development environment for this project was between MacOS and Windows 10/11, it was developed in Java, we used the IDE IntelliJ for development and GUI layout; the only things that weren’t default about our file path setup were that we put the test files in the “src” folder and some test files outside the source folder on the root of the project, everything else was default as it’d be set up in IntelliJ.
 
 When you download our project, it’ll sit in your downloads like this:
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/9d73824c-25a5-4da2-a822-1759281723b8)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/9d73824c-25a5-4da2-a822-1759281723b8)</img>
 
 When you open the project you’ll see a jar file, that’s all you need to run the program (provided you’re creating your own test files). Double click on the jar file and the program will start.
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/3f2035aa-dc3c-46fc-a390-d9fa4b19d7da)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/3f2035aa-dc3c-46fc-a390-d9fa4b19d7da)</img>
 
 The username and password is: CoolKid99 and something (to access the user mode: get the username and password incorrect three times).
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/2b969983-042c-43e1-bda8-607508c1a3df)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/2b969983-042c-43e1-bda8-607508c1a3df)</img>
 
 If you’ve launched the JAR file outside of the project folder, the browse button will default to the documents folder on your Windows computer, not sure about Mac. You can feed the program any text file (file with a .txt file extension), no other files will be accepted (the program will remain on the browse section if fed a file that doesn’t have a .txt file extension).
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/5c13a262-bc62-4890-956f-8272593f14ea)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/5c13a262-bc62-4890-956f-8272593f14ea)</img>
 
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/fb15f4ac-6243-41ab-9e48-d3936ce909ca)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/fb15f4ac-6243-41ab-9e48-d3936ce909ca)</img>
 Figure 1: Login page
 
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/309afabf-41f0-418c-9ad1-0f3ba8496b04)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/309afabf-41f0-418c-9ad1-0f3ba8496b04)</img>
 Figure 2: Window displays red text when invalid Username or Password is entered
 
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/c085a749-e4cc-4fd6-b488-43d9960583d5)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/c085a749-e4cc-4fd6-b488-43d9960583d5)</img>
 Figure 3: Window when admin has logged in (Admin view)
 
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/e7323b86-8d00-41f5-8ca4-fae8485aa661)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/e7323b86-8d00-41f5-8ca4-fae8485aa661)</img>
 Figure 4: Window once non admin user has logged in (non-admin view)
 
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/121dc6e6-53e1-4374-979e-99c165b67fbb)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/121dc6e6-53e1-4374-979e-99c165b67fbb)</img>
 Figure 5: Displayed window once user clicks ‘Browse’ to view text files (Admin view)
 
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/b7e7f47f-476d-4e55-955c-84bb14938c6c)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/b7e7f47f-476d-4e55-955c-84bb14938c6c)</img>
 Figure 6: Text file has been chosen (becomes grayed out); user enters a key for encryption (Admin view)
 
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/7bf57fd3-7c50-47fb-8d18-965e91d259b2)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/7bf57fd3-7c50-47fb-8d18-965e91d259b2)</img>
 Figure 7: ‘Encrypt’ has been pressed and ciphertext is displayed (non-admin view)
 
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/51c4a8e1-5377-44c0-a8d5-cc597182ff0b)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/51c4a8e1-5377-44c0-a8d5-cc597182ff0b)</img>
 Figure 8: ‘Decrypt’ has been pressed and output is displayed (non-admin view)
 
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/e8b114f5-7008-420e-8203-722fe9b37e8a)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/e8b114f5-7008-420e-8203-722fe9b37e8a)</img>
 Figure 9: User entered a key and pressed ‘Encrypt” button which displays a portion of the ciphertext (encryption portion gets grayed out) (Admin view)
 
-<img height="0.5vh">![image](https://github.com/user-attachments/assets/1cab4682-6225-4821-bd0d-8bb240bd191c)</img>
+<img height="0.5vw">![image](https://github.com/user-attachments/assets/1cab4682-6225-4821-bd0d-8bb240bd191c)</img>
 Figure 10: User clicks ‘Decrypt’ which displays a brute force method of all possible decrypted plaintext and a percentage that describes how likely a certain key and its plaintext is related to solving the ciphertext. 
 
 ### Discussions
