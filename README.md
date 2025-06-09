@@ -30,7 +30,7 @@ Our UML diagram is split into 5 different classes:
 - StringTokensInDictionary class that allows the program to check if the words in the decrypted message matches to actual English words
 
 ### Project UML diagram:
-<img src="https://github.com/user-attachments/assets/4cb885ff-20b4-4d7b-8816-e259d5898adf" height="50%" width="50%"></img>
+<img src="https://github.com/user-attachments/assets/4cb885ff-20b4-4d7b-8816-e259d5898adf" height="50%" width="100%"></img>
 
 ### Project Flowchart
 <img src="https://github.com/user-attachments/assets/0abdc0c7-6f7b-4be8-a106-158336fe135c" height="50%" width="50%"></img>
