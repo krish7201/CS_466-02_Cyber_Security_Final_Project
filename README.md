@@ -42,6 +42,7 @@ The data we will be using to encrypt and decrypt, will be all forms of historica
 Our development environment for this project was between MacOS and Windows 10/11, it was developed in Java, we used the IDE IntelliJ for development and GUI layout; the only things that weren’t default about our file path setup were that we put the test files in the “src” folder and some test files outside the source folder on the root of the project, everything else was default as it’d be set up in IntelliJ.
 
 When you download our project, it’ll sit in your downloads like this:
+
 <img src="https://github.com/user-attachments/assets/9d73824c-25a5-4da2-a822-1759281723b8" height="50%" width="50%"></img>
 
 When you open the project you’ll see a jar file, that’s all you need to run the program (provided you’re creating your own test files). Double click on the jar file and the program will start.
