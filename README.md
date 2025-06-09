@@ -47,7 +47,7 @@ When you download our project, it’ll sit in your downloads like this:
 
 When you open the project you’ll see a jar file, that’s all you need to run the program (provided you’re creating your own test files). Double click on the jar file and the program will start.
 
-<img src="https://github.com/user-attachments/assets/3f2035aa-dc3c-46fc-a390-d9fa4b19d7da" height="50%" width="50%"></img>
+<img src="https://github.com/user-attachments/assets/3f2035aa-dc3c-46fc-a390-d9fa4b19d7da" height="50%" width="25%"></img>
 
 The username and password is: CoolKid99 and something (to access the user mode: get the username and password incorrect three times).
 
