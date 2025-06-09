@@ -58,33 +58,43 @@ If you’ve launched the JAR file outside of the project folder, the browse butt
 <img src="https://github.com/user-attachments/assets/5c13a262-bc62-4890-956f-8272593f14ea" height="50%" width="50%"></img>
 
 <img src="https://github.com/user-attachments/assets/fb15f4ac-6243-41ab-9e48-d3936ce909ca" height="50%" width="50%"></img>
+
 Figure 1: Login page
 
 <img src="https://github.com/user-attachments/assets/309afabf-41f0-418c-9ad1-0f3ba8496b04" height="50%" width="50%"></img>
+
 Figure 2: Window displays red text when invalid Username or Password is entered
 
 <img src="https://github.com/user-attachments/assets/c085a749-e4cc-4fd6-b488-43d9960583d5" height="50%" width="50%"></img>
+
 Figure 3: Window when admin has logged in (Admin view)
 
 <img src="https://github.com/user-attachments/assets/e7323b86-8d00-41f5-8ca4-fae8485aa661" height="50%" width="50%"></img>
+
 Figure 4: Window once non admin user has logged in (non-admin view)
 
 <img src="https://github.com/user-attachments/assets/121dc6e6-53e1-4374-979e-99c165b67fbb" height="50%" width="50%"></img>
+
 Figure 5: Displayed window once user clicks ‘Browse’ to view text files (Admin view)
 
 <img src="https://github.com/user-attachments/assets/b7e7f47f-476d-4e55-955c-84bb14938c6c" height="50%" width="50%"></img>
+
 Figure 6: Text file has been chosen (becomes grayed out); user enters a key for encryption (Admin view)
 
 <img src="https://github.com/user-attachments/assets/7bf57fd3-7c50-47fb-8d18-965e91d259b2" height="50%" width="50%"></img>
+
 Figure 7: ‘Encrypt’ has been pressed and ciphertext is displayed (non-admin view)
 
 <img src="https://github.com/user-attachments/assets/51c4a8e1-5377-44c0-a8d5-cc597182ff0b" height="50%" width="50%"></img>
+
 Figure 8: ‘Decrypt’ has been pressed and output is displayed (non-admin view)
 
 <img src="https://github.com/user-attachments/assets/e8b114f5-7008-420e-8203-722fe9b37e8a" height="50%" width="50%"></img>
+
 Figure 9: User entered a key and pressed ‘Encrypt” button which displays a portion of the ciphertext (encryption portion gets grayed out) (Admin view)
 
 <img src="https://github.com/user-attachments/assets/1cab4682-6225-4821-bd0d-8bb240bd191c" height="50%" width="50%"></img>
+
 Figure 10: User clicks ‘Decrypt’ which displays a brute force method of all possible decrypted plaintext and a percentage that describes how likely a certain key and its plaintext is related to solving the ciphertext. 
 
 ### Discussions
